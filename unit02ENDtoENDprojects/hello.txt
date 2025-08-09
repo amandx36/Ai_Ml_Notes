@@ -1,1 +1,0 @@
-This contain the important line line notes of the book Hands on machine Learning BY { Aurelien Geron } 
